@@ -3,7 +3,7 @@
 
 This assignment requires you to implement a simple 3D game using the jMonkeyEngine 3.0 library.
 
-## 2 Game Description
+## Game Description
 
 The objective of this assignment is to implement a game inspired by the classic arcade
 game Arkanoid, see, for example, https://en.wikipedia.org/wiki/Arkanoid and https:
