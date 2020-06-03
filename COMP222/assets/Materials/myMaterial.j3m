@@ -1,0 +1,8 @@
+Material My Material : Common/MatDefs/Terrain/TerrainLighting.j3md {
+     MaterialParameters {
+     }
+    AdditionalRenderState {
+      Wireframe On
+      DepthWrite Off
+    }
+}
